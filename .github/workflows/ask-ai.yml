@@ -4,3 +4,4 @@ on:
 
 permissions:
   models: read
+  
